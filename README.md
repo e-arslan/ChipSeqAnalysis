@@ -4,4 +4,4 @@ Transcription of DNA to RNA is regulated by the Chromatine Immuno Precipitation 
 
 
 
-![Examples](images/IntAnalysis_ChIPSeq_Transcription.png)
+![Examples](Images/IntAnalysis_ChIPSeq_Transcription.png)
