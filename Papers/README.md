@@ -35,8 +35,4 @@ primed cell :
 antigen : 
 naive human embryonic stem cells : 
 
-#### Nice Words / Sentences
-* 
-* 
-
 
