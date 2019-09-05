@@ -2,7 +2,7 @@
 
 * **Title**: Functional Dissection of the Enhancer Repertoire in Human Embryonic Stem Cells
 * **Authors**: Barakat et al.
-* **Tags**: Normalization, Pooling
+* **Tags**: ChipSeq, Enhancers, Star-Seq
 * **Year**: 2018
 * **Rating**: 4/10
 
