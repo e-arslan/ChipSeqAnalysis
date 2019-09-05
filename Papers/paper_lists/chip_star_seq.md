@@ -4,7 +4,7 @@
 * **Authors**: Barakat et al.
 * **Tags**: Normalization, Pooling
 * **Year**: 2018
-* **Rating**: 6/10
+* **Rating**: 4/10
 
 #### Novel Points
 * Authors use a combination of chromatin immunoprecipitation and a massively parallel reporter assay to identify functional enhancers in primed and naive human embryonic stem cells.
